@@ -1,0 +1,14 @@
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\5.Rectangulo\bin\Debug\net9.0\5.Rectangulo.exe
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\5.Rectangulo\bin\Debug\net9.0\5.Rectangulo.deps.json
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\5.Rectangulo\bin\Debug\net9.0\5.Rectangulo.runtimeconfig.json
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\5.Rectangulo\bin\Debug\net9.0\5.Rectangulo.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\5.Rectangulo\bin\Debug\net9.0\5.Rectangulo.pdb
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\5.Rectangulo\obj\Debug\net9.0\5.Rectangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\5.Rectangulo\obj\Debug\net9.0\5.Rectangulo.AssemblyInfoInputs.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\5.Rectangulo\obj\Debug\net9.0\5.Rectangulo.AssemblyInfo.cs
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\5.Rectangulo\obj\Debug\net9.0\5.Rectangulo.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\5.Rectangulo\obj\Debug\net9.0\5.Rectangulo.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\5.Rectangulo\obj\Debug\net9.0\refint\5.Rectangulo.dll
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\5.Rectangulo\obj\Debug\net9.0\5.Rectangulo.pdb
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\5.Rectangulo\obj\Debug\net9.0\5.Rectangulo.genruntimeconfig.cache
+C:\Users\ariel\Documents\CFP - Programacion Orientada en Objetos\5.Rectangulo\obj\Debug\net9.0\ref\5.Rectangulo.dll

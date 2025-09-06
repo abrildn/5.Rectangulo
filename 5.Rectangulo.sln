@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.Rectangulo", "5.Rectangulo.csproj", "{164C534F-9B02-09A6-384B-D23367F04173}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{164C534F-9B02-09A6-384B-D23367F04173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164C534F-9B02-09A6-384B-D23367F04173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164C534F-9B02-09A6-384B-D23367F04173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164C534F-9B02-09A6-384B-D23367F04173}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C311417-F407-42B3-B50C-3E8706F252EB}
+	EndGlobalSection
+EndGlobal
